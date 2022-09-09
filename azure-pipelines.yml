@@ -8,16 +8,16 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: '065b7c68-7ce7-42fe-ac89-73ac9ec4b5a2'
+  azureServiceConnectionId: 'serviceconnection57'
 
   # Web app name
-  webAppName: 'ia-housepriceapi'
+  webAppName: 'sumit-housingapi'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
 
   # Environment name
-  environmentName: 'ia-housepriceapi'
+  environmentName: 'sumit-housingapi'
 
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
@@ -80,7 +80,7 @@ stages:
             displayName: 'Use Python version'
 
           - task: AzureWebApp@1
-            displayName: 'Deploy Azure Web App : ia-housepriceapi'
+            displayName: 'Deploy Azure Web App : sumit-housingapi'
             inputs:
               azureSubscription: $(azureServiceConnectionId)
               appName: $(webAppName)
