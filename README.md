@@ -1,4 +1,4 @@
-# Overview of project Boston housing project
+# Overview of project
 
 In this project we have created pipelines to enable Continuous Delivery to Azure App Service.
 Following steps were taken to acheive goal of creating final pipeline.
