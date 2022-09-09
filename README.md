@@ -18,9 +18,11 @@ Following steps were taken to acheive goal of creating final pipeline.
 
 ## Instructions
 
-* Architectural Diagram (Shows how key parts of the system work)>
+* Architectural Diagram
 
-<:  Instructions for running the Python project. 
+![Architechture](https://user-images.githubusercontent.com/90558604/189424757-5d1084db-83ad-4f69-ae08-60e1828236d7.jpg)
+
+####  Instructions for running the Python project. 
 
 * Github repository for project.
   
