@@ -14,7 +14,7 @@ Following steps were taken to acheive goal of creating final pipeline.
 <Project Plan
 
 * Trello board for the project is [here](https://trello.com/b/y4JeEkYU/boston-housing-prediction-appliaction)
-* Spreadsheet with the original and final project plan is [here](https://docs.google.com/spreadsheets/d/1OiiWmsZoO5EdPOmio4TpvG30Ia6pbFvThshtVg3an-E/edit?usp=sharing)
+* Spreadsheet with the original and final project plan is [here](https://docs.google.com/spreadsheets/d/1U_c5_KnxCGIAcGpbg1xTBoFr50wTLGjP35qJ4YKGzdo/edit?usp=sharing)
 
 ## Instructions
 
