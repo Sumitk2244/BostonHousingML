@@ -25,5 +25,5 @@ curl -d '{
    }
 }'\
      -H "Content-Type: application/json" \
-     -X POST https://sumit-housingapi.azurewebsites.net/predict 
+     -X POST https://sumit-housingapi.azurewebsites.net/predict
      #your application name <yourappname>goes here

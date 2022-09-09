@@ -4,7 +4,7 @@ install:
 
 test:
 	python -m pytest -vv test_hello.py
-	python -m pytest -vv app.py
+	python -m pytest -vv test_app.py
 
 lint:
 	pylint --disable=R,C hello.py
