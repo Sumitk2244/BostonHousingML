@@ -10,4 +10,4 @@ class HousePredictorTaskSet(HttpUser):
 
 	@task
 	def post_prediction(self):
-		self.client.post('/predict', json=input_data)
+		self.client.post('https://sumit-housingapi.azurewebsites.net/predict', json=input_data)
